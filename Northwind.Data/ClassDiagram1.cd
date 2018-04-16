@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Northwind.Data.Entities.Category">
+    <Position X="2" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACAAAgAAAAAAAAAAAAACAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Entities\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Northwind.Data.Entities.Product">
+    <Position X="4.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>MkAAAAACAAAAAAAAAAAAQAAAAAEAAAAAACAAAAgoAAA=</HashCode>
+      <FileName>Entities\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Northwind.Data.Entities.Supplier">
+    <Position X="8" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAgAAAAAAIIAAiAAAAAAIAAAASACACIEAAAAA=</HashCode>
+      <FileName>Entities\Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
