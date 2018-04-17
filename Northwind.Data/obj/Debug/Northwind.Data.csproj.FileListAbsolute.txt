@@ -12,3 +12,7 @@ C:\Users\jmontalban1\Desktop\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.dll
 C:\Users\jmontalban1\Desktop\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.pdb
 C:\Users\jmontalban1\Desktop\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.dll
 C:\Users\jmontalban1\Desktop\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\Northwind.Data\obj\Debug\Northwind.Data.pdb

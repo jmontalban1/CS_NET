@@ -34,3 +34,15 @@ C:\Users\jmontalban1\Desktop\CS_NET\NorthwindSystem\bin\Debug\EntityFramework.Sq
 C:\Users\jmontalban1\Desktop\CS_NET\NorthwindSystem\obj\Debug\NorthwindSystem.csprojResolveAssemblyReference.cache
 C:\Users\jmontalban1\Desktop\CS_NET\NorthwindSystem\obj\Debug\NorthwindSystem.dll
 C:\Users\jmontalban1\Desktop\CS_NET\NorthwindSystem\obj\Debug\NorthwindSystem.pdb
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\bin\Debug\NorthwindSystem.dll.config
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\bin\Debug\NorthwindSystem.dll
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\bin\Debug\NorthwindSystem.pdb
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\bin\Debug\EntityFramework.dll
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\bin\Debug\Northwind.Data.dll
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\bin\Debug\Northwind.Data.pdb
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\bin\Debug\EntityFramework.xml
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\obj\Debug\NorthwindSystem.csprojResolveAssemblyReference.cache
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\obj\Debug\NorthwindSystem.dll
+C:\Users\jmontalban1\Documents\GitHub\CS_NET\NorthwindSystem\obj\Debug\NorthwindSystem.pdb
